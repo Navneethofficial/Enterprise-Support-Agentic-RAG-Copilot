@@ -155,6 +155,16 @@ Generate from KB    [4] Tavily Web Search
                     Insufficient Evidence
 ```
 
+
+
+<p align="center">
+  <img
+    src="docs/images/architecture.png"
+    alt="Enterprise IT Support Agentic RAG Copilot Architecture"
+    width="900"
+  />
+</p>
+
 ### Why Agentic?
 
 Normal RAG does approximately this:
